@@ -1,0 +1,6 @@
+Iteration 1
+	User Stories 
+	    Maintain student contact information
+	    Enroll student
+	    Drop student
+	    Record payment
